@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Anil Sarkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://static.wikia.nocookie.net/animal-jam-clans-1/images/6/65/Giphyxxxs.gif/revision/latest/scale-to-width-down/600?cb=20180618174546">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anil00998899&label=Profile%20views&color=0e75b6&style=flat" alt="anil00998899" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
